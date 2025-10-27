@@ -31,7 +31,6 @@ Simple Home Budget API that manages authentification (register, login), CRUD(cat
 Kopiraj .env-example u .env i unesi svoje podatke:
 Primjer .env:
 `DATABASE_URL=postgresql+psycopg://postgres:password@localhost:5432/homebudget`
-\n
 `SECRET_KEY=your_secret_key`
 `ALGORITHM=HS256`
 `ACCESS_TOKEN_EXPIRE_MINUTES=30`
