@@ -1,0 +1,7 @@
+# Created by pytest automatically.
+.venv/
+__pycache__/
+*.pyc
+.env
+test.db
+.DS_Store
